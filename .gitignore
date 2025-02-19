@@ -1,7 +1,0 @@
-"# Android Studio" 
-".idea/" 
-"*.iml" 
-"/build/" 
-"/gradle-wrapper.jar" 
-"/gradle-wrapper.properties" 
-"local.properties" 
